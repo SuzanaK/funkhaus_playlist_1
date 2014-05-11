@@ -1,0 +1,1 @@
+This scraper collects the daily song playlist of the German world music radio station Funkhaus Europa. 
